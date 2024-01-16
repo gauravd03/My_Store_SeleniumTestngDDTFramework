@@ -1,0 +1,50 @@
+[INFO ] 2024-01-16 09:57:11.813 [main] MyStoreFrameworkDevelopment1 - clicked on sign in button
+[INFO ] 2024-01-16 09:57:12.033 [main] MyStoreFrameworkDevelopment1 - mail enterd and clicked on submit butoon
+[INFO ] 2024-01-16 09:57:16.385 [main] MyStoreFrameworkDevelopment1 - gender selected
+[INFO ] 2024-01-16 09:57:16.533 [main] MyStoreFrameworkDevelopment1 - Firstname entered
+[INFO ] 2024-01-16 09:57:16.671 [main] MyStoreFrameworkDevelopment1 - lastname entered
+[INFO ] 2024-01-16 09:57:16.819 [main] MyStoreFrameworkDevelopment1 - passsword enterd
+[INFO ] 2024-01-16 09:57:17.947 [main] MyStoreFrameworkDevelopment1 - clicked on register 
+[INFO ] 2024-01-16 09:57:20.980 [main] MyStoreFrameworkDevelopment1 - user verified
+[INFO ] 2024-01-16 09:57:28.781 [main] MyStoreFrameworkDevelopment1 - clicked on sign in button
+[INFO ] 2024-01-16 09:57:28.982 [main] MyStoreFrameworkDevelopment1 - mail enterd and clicked on submit butoon
+[INFO ] 2024-01-16 09:57:33.856 [main] MyStoreFrameworkDevelopment1 - gender selected
+[INFO ] 2024-01-16 09:57:33.991 [main] MyStoreFrameworkDevelopment1 - Firstname entered
+[INFO ] 2024-01-16 09:57:34.127 [main] MyStoreFrameworkDevelopment1 - lastname entered
+[INFO ] 2024-01-16 09:57:34.239 [main] MyStoreFrameworkDevelopment1 - passsword enterd
+[INFO ] 2024-01-16 09:57:35.234 [main] MyStoreFrameworkDevelopment1 - clicked on register 
+[INFO ] 2024-01-16 09:57:36.156 [main] MyStoreFrameworkDevelopment1 - File found
+[DEBUG] 2024-01-16 09:57:36.519 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:36.526 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:36.529 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-16 09:57:37.496 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:37.498 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:37.500 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-16 09:57:37.558 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:37.559 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:37.562 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-16 09:57:37.620 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:37.622 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:37.623 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-16 09:57:37.702 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:37.704 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:37.705 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-16 09:57:37.753 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:37.755 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:37.756 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-16 09:57:37.802 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:37.804 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:37.806 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-16 09:57:37.851 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-16 09:57:37.853 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-16 09:57:37.854 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-01-16 09:57:38.556 [main] MyStoreFrameworkDevelopment1 - clicked on sign button for verifying user  
+[INFO ] 2024-01-16 09:57:38.683 [main] MyStoreFrameworkDevelopment1 - Email entered 
+[INFO ] 2024-01-16 09:57:38.771 [main] MyStoreFrameworkDevelopment1 - password entered 
+[INFO ] 2024-01-16 09:57:39.475 [main] MyStoreFrameworkDevelopment1 - clicked on sign in button for verifying user account 
+[INFO ] 2024-01-16 09:57:39.520 [main] MyStoreFrameworkDevelopment1 - user verified
+[INFO ] 2024-01-16 09:57:41.186 [main] MyStoreFrameworkDevelopment1 - clicked on sign button for verifying user  
+[INFO ] 2024-01-16 09:57:41.323 [main] MyStoreFrameworkDevelopment1 - Email entered 
+[INFO ] 2024-01-16 09:57:41.438 [main] MyStoreFrameworkDevelopment1 - password entered 
+[INFO ] 2024-01-16 09:57:42.256 [main] MyStoreFrameworkDevelopment1 - clicked on sign in button for verifying user account 
+[INFO ] 2024-01-16 09:57:42.300 [main] MyStoreFrameworkDevelopment1 - user verified
