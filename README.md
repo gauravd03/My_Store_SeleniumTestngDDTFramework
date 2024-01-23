@@ -13,7 +13,7 @@
 Three steps of framework -: Implemantaon, Execution, Maintenance
 
 
-            *Steps to buid framework*
+            *Steps to buid framework
 1.choose programming languages
 2.Choose unit testing  framework -> to manage test cases
 3.Design architechture 
@@ -61,3 +61,5 @@ Maintenance:-  Git/Github,  Jenkins
 Website :=  http://www.automationpractice.pl/index.php
  			gauravdandekar@gmail.com
 			Gaurav@123
+
+   Note:excel implementaion error, framework remaining 
